@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ここから",
+  "base_artist": "群青の世界",
+  "createdAt": "2026-03-24T03:43:19.156643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ここから",
+      "artist": "Kobukuro",
+      "has_synced": false,
+      "path": "select/01_ここから_Kobukuro.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ここから",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/02_ここから_コブクロ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ここから、ここから(instrumemtal)",
+      "artist": "玉木マリ(CV:水瀬いのり)、小淵沢報瀬(CV:花澤香菜)、三宅日向(CV:井口裕香)、白石結月(CV:早見沙織)",
+      "has_synced": false,
+      "path": "select/03_ここから、ここから(instrumemtal)_玉木マリ(CV_水瀬いのり)、小淵沢報瀬(CV_花澤香菜)、三宅日向(CV_井口裕香)、白石結月(CV_早見沙織).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "今日から、ここから",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/04_今日から、ここから_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "今日から、ここから",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/05_今日から、ここから_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ここから",
+      "artist": "飯泉",
+      "has_synced": false,
+      "path": "select/06_ここから_飯泉.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ここから、かなたから～bambi-no cover～",
+      "artist": "鹿乃",
+      "has_synced": false,
+      "path": "select/07_ここから、かなたから~bambi-no_cover~_鹿乃.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ここから、ここから",
+      "artist": "玉木マリ(CV:水瀬いのり)、小淵沢報瀬(CV:花澤香菜)、三宅日向(CV:井口裕香)、白石結月(CV:早見沙織)",
+      "has_synced": false,
+      "path": "select/08_ここから、ここから_玉木マリ(CV_水瀬いのり)、小淵沢報瀬(CV_花澤香菜)、三宅日向(CV_井口裕香)、白石結月(CV_早見沙織).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ここから、ここから",
+      "artist": "玉木マリ(CV:水瀬いのり)",
+      "has_synced": false,
+      "path": "select/09_ここから、ここから_玉木マリ(CV_水瀬いのり).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ここから、ここから",
+      "artist": "玉木マリ",
+      "has_synced": false,
+      "path": "select/10_ここから、ここから_玉木マリ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ここから、かなたから〜bambi-no cover〜",
+      "artist": "鹿乃",
+      "has_synced": false,
+      "path": "select/11_ここから、かなたから〜bambi-no_cover〜_鹿乃.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ここから",
+      "artist": "B’z",
+      "has_synced": true,
+      "path": "select/12_ここから_B’z.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ここから",
+      "artist": "B'z - Singles",
+      "has_synced": true,
+      "path": "select/13_ここから_B'z_-_Singles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ここから、かなたから 〜bambi-no cover〜",
+      "artist": "鹿乃",
+      "has_synced": false,
+      "path": "select/14_ここから、かなたから_〜bambi-no_cover〜_鹿乃.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ここから、かなたから",
+      "artist": "fragments(高森奈津美、大橋歩夕、立野香菜子、牧野由依、藤田咲)",
+      "has_synced": true,
+      "path": "select/15_ここから、かなたから_fragments(高森奈津美、大橋歩夕、立野香菜子、牧野由依、藤田咲).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ここから、ここから (instrumental)",
+      "artist": "玉木マリ(CV:水瀬いのり)、小淵沢報瀬(CV:花澤香菜)、三宅日向(CV:井口裕香)、白石結月(CV:早見沙織)",
+      "has_synced": false,
+      "path": "select/16_ここから、ここから_(instrumental)_玉木マリ(CV_水瀬いのり)、小淵沢報瀬(CV_花澤香菜)、三宅日向(CV_井口裕香)、白石結月(CV_早見沙織).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ここから",
+      "artist": "群青の世界",
+      "has_synced": false,
+      "path": "select/pl_01_ここから_群青の世界.txt"
+    }
+  ]
+}
